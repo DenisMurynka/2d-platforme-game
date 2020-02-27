@@ -1,0 +1,49 @@
+C:\BombsAway\BombsAway\bin\Debug\BombsAway.exe.config
+C:\BombsAway\BombsAway\bin\Debug\BombsAway.exe
+C:\BombsAway\BombsAway\bin\Debug\BombsAway.pdb
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.csprojResolveAssemblyReference.cache
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.Character.resources
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.Enemy.resources
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.Form1.resources
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.Properties.Resources.resources
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.World.resources
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.csproj.GenerateResource.cache
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.csproj.CoreCompileInputs.cache
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.exe
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.pdb
+C:\BombsAway\BombsAway\obj\Debug\BombsAway.test_res.resources
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.csprojResolveAssemblyReference.cache
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.Character.resources
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.Enemy.resources
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.Form1.resources
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.Properties.Resources.resources
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.test_res.resources
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.World.resources
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.csproj.GenerateResource.cache
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.csproj.CoreCompileInputs.cache
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.exe
+C:\array of file\original\BombsAway\obj\Debug\BombsAway.pdb
+C:\array of file\original\BombsAway\bin\Debug\BombsAway.exe.config
+C:\array of file\original\BombsAway\bin\Debug\BombsAway.exe
+C:\array of file\original\BombsAway\bin\Debug\BombsAway.pdb
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\BombsAway.exe.config
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\BombsAway.exe
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\BombsAway.pdb
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.csprojResolveAssemblyReference.cache
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Character.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Enemy.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Form1.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Properties.Resources.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.test_res.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.World.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.csproj.GenerateResource.cache
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.csproj.CoreCompileInputs.cache
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.exe
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.pdb
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\Interop.WMPLib.dll
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\AxInterop.WMPLib.dll
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\Interop.WMPLib.dll
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\AxInterop.WMPLib.dll
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.csproj.ResolveComReference.cache
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.ABOUT.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.MENU.resources

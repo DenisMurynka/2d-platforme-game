@@ -1,0 +1,44 @@
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\Interop.WMPLib.dll
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\AxInterop.WMPLib.dll
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\Interop.WMPLib.dll
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\AxInterop.WMPLib.dll
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\KURSOVAGAME.csproj.ResolveComReference.cache
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Character.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Enemy.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Form1.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.MENU.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.ABOUT.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Properties.Resources.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.World.resources
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\KURSOVAGAME.csproj.GenerateResource.cache
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\KURSOVAGAME.csproj.CoreCompileInputs.cache
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\KURSOVAGAME.csprojResolveAssemblyReference.cache
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\Database1.mdf
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\Database1_log.ldf
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\PLATFORMER GAME.exe.config
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\PLATFORMER GAME.exe
+C:\array of file\POKA MOLODOY\BombsAway\bin\Debug\PLATFORMER GAME.pdb
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\PLATFORMER GAME.exe
+C:\array of file\POKA MOLODOY\BombsAway\obj\Debug\PLATFORMER GAME.pdb
+C:\KURSOVA\POKA MOLODOY\BombsAway\bin\Debug\Database1.mdf
+C:\KURSOVA\POKA MOLODOY\BombsAway\bin\Debug\Database1_log.ldf
+C:\KURSOVA\POKA MOLODOY\BombsAway\bin\Debug\PLATFORMER GAME.exe.config
+C:\KURSOVA\POKA MOLODOY\BombsAway\bin\Debug\PLATFORMER GAME.exe
+C:\KURSOVA\POKA MOLODOY\BombsAway\bin\Debug\PLATFORMER GAME.pdb
+C:\KURSOVA\POKA MOLODOY\BombsAway\bin\Debug\Interop.WMPLib.dll
+C:\KURSOVA\POKA MOLODOY\BombsAway\bin\Debug\AxInterop.WMPLib.dll
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\Interop.WMPLib.dll
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\AxInterop.WMPLib.dll
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\KURSOVAGAME.csproj.ResolveComReference.cache
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Character.resources
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Enemy.resources
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Form1.resources
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.MENU.resources
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.ABOUT.resources
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.Properties.Resources.resources
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\BombsAway.World.resources
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\KURSOVAGAME.csproj.GenerateResource.cache
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\KURSOVAGAME.csproj.CoreCompileInputs.cache
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\PLATFORMER GAME.exe
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\PLATFORMER GAME.pdb
+C:\KURSOVA\POKA MOLODOY\BombsAway\obj\Debug\KURSOVAGAME.csprojAssemblyReference.cache
